@@ -2,7 +2,7 @@
 
 Cesium-the full name for the element Cs-a mental, which is just the same as CS-computer science
 
-![Cesium][/Picture/timg.jpg]
+![Cesium](/Picture/timg.jpg)
 
 So let's call this Cesium and call ourselves Cesium people
 
