@@ -1,4 +1,4 @@
-import turtle
+import turtle as t
 def sum(m,n):
     if m ==n :
         return m
@@ -32,29 +32,26 @@ def fibs(n):
         return (fib(n)+fibs(n-1))
 
 
-turtle.speed(7)
-turtle.hideturtle()
-turtle.bgcolor("lavenderblush")
-def draw_branch(branch_length):
-    if branch_length > 5:
-        if branch_length < 40:
-            turtle.color('palevioletred')
+def move(l):
+    if l > 5:
+        if l < 40:
+            t.color('palevioletred')
         else:
-            turtle.color('pink')
-        turtle.forward(branch_length)
-        turtle.right(25)
-        draw_branch(branch_length-15)
-        turtle.left(50)
-        draw_branch(branch_length-15)
-        if branch_length < 40:
-            turtle.color('palevioletred')
-        else:
-            turtle.color('pink')
-        turtle.right(25)
-        turtle.backward(branch_length)
-
-turtle.color('palevioletred')
-turtle.right(90)
-turtle.fd(100)
-turtle.left(180)
-draw_branch(100)
+            t.color('pink')
+        t.fd(l)
+        t.lt(30)
+        move(l-15)
+        t.rt(60)
+        move(l-15)
+        t.penup()
+        t.lt(30)
+        t.backward(l)
+        t.pendown()
+t.speed(7)
+t.hideturtle()
+t.bgcolor("lavenderblush")
+t.rt(90)
+t.fd(100)
+t.rt(180)
+move(100)
+t.mainloop()
