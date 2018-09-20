@@ -1,4 +1,36 @@
 import turtle
+def sum(m,n):
+    if m ==n :
+        return m
+    else:
+        return m+sum(m+1,n)
+
+def fact(n):
+    if n==0:
+        return 1
+    else:
+        return n*fact(n-1)
+
+def power(base,exp):
+    if exp==0:
+        return 1
+    else:
+        return power*(base(base,exp-1))
+
+def fib(n):
+    if n ==0 or n ==1:
+        return 1
+    else:
+        return(fib(n-1)+fib(n-2))
+
+def fibs(n):
+    if n < 0 :
+        return 0
+    if n == 0:
+        return 1
+    else:
+        return (fib(n)+fibs(n-1))
+
 
 turtle.speed(7)
 turtle.hideturtle()
