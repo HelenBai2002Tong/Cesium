@@ -111,8 +111,13 @@ class Student(object):
         print out
         :return: a string containing all data for the student
         """
-
-        return self.getName()+" "+ str(self.getAge())+" "+self.getGender()+" " +self.getClass()+ ' '+ str(self.getSubject())+" "+str(self.getGrades())
+        Output="Name: "+self.getName()+"\n"
+        Output+="Gender: "+self.getGender()+"\n"
+        Output+="Age: "+str(self.getAge())+"\n"
+        Output+="Class"+self.getClass()+"\n"
+        Output+="Subject: "+str(self.getSubject())+"\n"
+        Output+="Grades: "+str(self.getGrades())+"\n"
+        return Output
 
 class TEST(Student):
     """
@@ -127,9 +132,20 @@ class TEST(Student):
         :return: predict the grade for the student
         """
         return "from "+str(self.avg-5)+" to "+str(self.avg+5)
+class StudentIB(Student):
+    def __init__(self,name,age,gender,Class,subject,subgrades,TOK):
+        Student.__init__(self,name,age,gender,Class,subject,subgrades,)
+        self.TOK=TOK
+    def TOKSCORE(self):
+        if self.TOK=="A":
+            return " good good student "
+        else:
+            return "that's pretty good"
 
-a=Student("Rick",7,"M","S2C1",["Math","CS","Man","Eco"],[89,70,66,90])
+a=Student("Rick",7,"M","S2C4",["Math","CS","Man","Eco"],[89,70,66,90])
 a.setAge(16)
 print(a)
 b=TEST(a)
 print(b.predict())
+c=StudentIB("Jerry",17,"M","S2C7",["CS"],[7],"B")
+print(c.TOKSCORE())
