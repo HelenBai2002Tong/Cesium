@@ -2,7 +2,7 @@ class Student(object):
     """
     Student class for data of a student
     """
-    def __init__(self,name,age,gender,Class,subject,subgrades):
+    def __init__(self,name="-",age=0,gender=" ",Class=" ",subject=[],subgrades=[]):
         self.name=name
         self.age=age
         self.gender=gender
@@ -133,19 +133,22 @@ class TEST(Student):
         """
         return "from "+str(self.avg-5)+" to "+str(self.avg+5)
 class StudentIB(Student):
-    def __init__(self,name,age,gender,Class,subject,subgrades,TOK):
-        Student.__init__(self,name,age,gender,Class,subject,subgrades,)
+    def __init__(self,name="-",age=0,gender=" ",Class=" ",subject=[],subgrades=[],TOK=" "):
+        Student.__init__(self,name,age,gender,Class,subject,subgrades)
         self.TOK=TOK
     def TOKSCORE(self):
         if self.TOK=="A":
             return " good good student "
         else:
             return "that's pretty good"
+    def Name(self):
+        return self.name
 
 a=Student("Rick",7,"M","S2C4",["Math","CS","Man","Eco"],[89,70,66,90])
 a.setAge(16)
 print(a)
 b=TEST(a)
 print(b.predict())
-c=StudentIB("Jerry",17,"M","S2C7",["CS"],[7],"B")
+c=StudentIB("Jerry")
+print(c.Name())
 print(c.TOKSCORE())
