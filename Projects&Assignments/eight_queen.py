@@ -17,12 +17,12 @@ def main():
     for i in range(k):
         list.append(i)
     found=0
-    while found<5:
+    q=eval(input("numbers of solution you want:"))
+    while found<q:
         rd.shuffle(list)
         if not has_clashes(list):
             draw_board(list)
             found=found+1
-            print(list)
 
 def draw_board(list):
     pg.init()
