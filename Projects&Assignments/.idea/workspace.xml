@@ -81,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/perception.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-167">
-              <caret line="127" column="13" lean-forward="true" selection-start-line="127" selection-start-column="13" selection-end-line="127" selection-end-column="13" />
+            <state relative-caret-position="304">
+              <caret line="57" column="41" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
               <folding>
                 <element signature="e#1#37#0" expanded="true" />
                 <element signature="e#223#438#0" />
@@ -93,6 +93,7 @@
                 <element signature="e#1431#1790#0" />
                 <element signature="e#1431#1660#1" />
                 <element signature="e#1711#1790#0" />
+                <element signature="e#1846#2255#0" />
                 <element signature="e#2267#2350#0" />
                 <element signature="e#2598#2677#0" />
                 <element signature="e#2922#3349#0" />
@@ -289,7 +290,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1477" height="797" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25686136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -380,8 +380,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/perception.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-167">
-          <caret line="127" column="13" lean-forward="true" selection-start-line="127" selection-start-column="13" selection-end-line="127" selection-end-column="13" />
+        <state relative-caret-position="304">
+          <caret line="57" column="41" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
           <folding>
             <element signature="e#1#37#0" expanded="true" />
             <element signature="e#223#438#0" />
@@ -392,6 +392,7 @@
             <element signature="e#1431#1790#0" />
             <element signature="e#1431#1660#1" />
             <element signature="e#1711#1790#0" />
+            <element signature="e#1846#2255#0" />
             <element signature="e#2267#2350#0" />
             <element signature="e#2598#2677#0" />
             <element signature="e#2922#3349#0" />
