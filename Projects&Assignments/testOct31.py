@@ -41,12 +41,20 @@ class magic_array(object):
             for j in range(l):
                 check1 = check1 + list[i][j]
                 check2=check2+list[j][i]
+                if i == j:
+                    check3 = check3 + list[i][j]
+                if i + j == l - 1:
+                    check4 = check4 + list[i][j]
             if check2==check1==sum1:
                 check1=0
                 check2=0
             else:
                 return False
-        return True
+        if check3==check4==sum1:
+            return True
+        else:
+            return False
+
 a=magic_array()
 b=a.makeup(5)
 print(a.check(b))
