@@ -1,4 +1,9 @@
 def check(K,P):
+    '''
+    :param K: a number
+    :param P: a number
+    :return: calculate and output a number
+    '''
     while K > 1:
         print(K)
         K=K-1
@@ -9,6 +14,10 @@ class magic_array(object):
     def __init__(self):
         pass
     def makeup(self,n):
+        '''
+        :param n: the size you want the array to be( an odd number)
+        :return: a n*n array satisfied the magic array conditions
+        '''
         temp=[]
         for i in range(n):
             temp.append([])
@@ -36,6 +45,10 @@ class magic_array(object):
             print(temp[i])
         return temp
     def check(self,list):
+        '''
+        :param list: an array with 2 dimensions
+        :return:  whether it is a magic array or not( True or False)
+        '''
         l=len(list)
         sum1=0
         for i in range(l):
