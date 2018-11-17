@@ -55,9 +55,10 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$Q1_C1_C6.coverage" NAME="循环结构测试Q1-C1&amp;C6 Coverage Results" MODIFIED="1541144055158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../会考作业/示例代码" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$loop3.coverage" NAME="loop3 Coverage Results" MODIFIED="1541090236443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$myzr2.coverage" NAME="myzr测试2 Coverage Results" MODIFIED="1541086310882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
-    <SUITE FILE_PATH="coverage/Projects_Assignments$HiMCM_m1_top10.coverage" NAME="HiMCM_m1_top10 Coverage Results" MODIFIED="1542208846047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$HiMCM_m1_top10.coverage" NAME="HiMCM_m1_top10 Coverage Results" MODIFIED="1542362297574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$HiMCM_2.coverage" NAME="HiMCM_2 Coverage Results" MODIFIED="1542367912249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$Q1.coverage" NAME="Q1 Coverage Results" MODIFIED="1541081915917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
-    <SUITE FILE_PATH="coverage/Projects_Assignments$preinpost.coverage" NAME="preinpost Coverage Results" MODIFIED="1542253951855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$preinpost.coverage" NAME="preinpost Coverage Results" MODIFIED="1542254865431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$scratch_20.coverage" NAME="scratch_20 Coverage Results" MODIFIED="1542018546919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$c7.coverage" NAME="c7 Coverage Results" MODIFIED="1541079590000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$text3_10_30.coverage" NAME="text3 10.30 Coverage Results" MODIFIED="1541089962036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
@@ -80,7 +81,7 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$Liuzhihan.coverage" NAME="Liuzhihan Coverage Results" MODIFIED="1541075821670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$stack.coverage" NAME="stack Coverage Results" MODIFIED="1542158667493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$HiMCM.coverage" NAME="HiMCM Coverage Results" MODIFIED="1541912591450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Projects_Assignments$HiMCM__1_.coverage" NAME="HiMCM (1) Coverage Results" MODIFIED="1542252451914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$HiMCM__1_.coverage" NAME="HiMCM (1) Coverage Results" MODIFIED="1542364657829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$scratch_18.coverage" NAME="scratch_18 Coverage Results" MODIFIED="1541911700440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$1_10_23.coverage" NAME="1.10.23 Coverage Results" MODIFIED="1541075417644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$s1c6.coverage" NAME="梁颖昕s1c6 Coverage Results" MODIFIED="1541087583090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
@@ -103,39 +104,40 @@
     <session id="35194044">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.6" value="6" />
           <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="130" />
+          <entry key="py" value="133" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="120" />
+          <entry key="Python" value="123" />
           <entry key="Scratch" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="py" value="17223" />
+          <entry key="py" value="18318" />
           <entry key="stack" value="326" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="15713" />
+          <entry key="Python" value="16808" />
           <entry key="Scratch" value="1836" />
         </counts>
       </usages-collector>
@@ -146,51 +148,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sorting.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="138" column="28" selection-start-line="138" selection-start-column="28" selection-end-line="138" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-                <marker date="1541321607990" expanded="true" signature="2584:3075" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/preinpost.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-              <folding>
-                <marker date="1542253926351" expanded="true" signature="417:422" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="15" />
-              <folding>
-                <marker date="1542158667462" expanded="true" signature="405:561" ph="..." />
-                <marker date="1542158667462" expanded="true" signature="587:592" ph="..." />
-                <marker date="1542158667462" expanded="true" signature="931:936" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM_m1_top10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+            <state relative-caret-position="132">
+              <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="40" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#129#633#0" />
+                <element signature="e#655#899#0" />
               </folding>
             </state>
           </provider>
@@ -199,14 +164,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="93" column="35" lean-forward="true" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
+            <state relative-caret-position="-95">
+              <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
               <folding>
+                <element signature="e#0#18#0" expanded="true" />
                 <element signature="e#190#694#0" />
-                <marker date="1542252535744" expanded="true" signature="713:5182" ph="..." />
-                <marker date="1542252535744" expanded="true" signature="3212:3450" ph="..." />
-                <marker date="1542252535744" expanded="false" signature="3466:5182" ph="..." />
-                <marker date="1542252535744" expanded="true" signature="13269:13271" ph="..." />
+                <element signature="e#718#963#0" />
+                <element signature="e#999#2962#0" />
+                <element signature="e#2990#3193#0" />
+                <marker date="1542365800209" expanded="true" signature="732:6161" ph="..." />
+                <marker date="1542365800209" expanded="false" signature="3231:3411" ph="..." />
+                <marker date="1542365800209" expanded="true" signature="3428:6161" ph="..." />
+                <marker date="1542365800209" expanded="true" signature="13973:13975" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="31" column="4" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -224,6 +205,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>print</find>
+      <find>getwe</find>
+      <find>ind</find>
+      <find>xlwt</find>
+      <find>column</find>
+      <find>col</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -264,10 +250,11 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
         <option value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/getdata.py" />
         <option value="$PROJECT_DIR$/stack.py" />
-        <option value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM_m1_top10.py" />
         <option value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/test.py" />
-        <option value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM.py" />
         <option value="$PROJECT_DIR$/preinpost.py" />
+        <option value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM_m1_top10.py" />
+        <option value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM.py" />
+        <option value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM_2.py" />
       </list>
     </option>
   </component>
@@ -278,10 +265,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="710" />
-    <option name="y" value="434" />
-    <option name="width" value="1322" />
-    <option name="height" value="1400" />
+    <option name="x" value="-14" />
+    <option name="width" value="1308" />
+    <option name="height" value="1388" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -315,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.preinpost">
+  <component name="RunManager" selected="Python.HiMCM_2">
     <configuration name="HiMCM (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Projects&amp;Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -330,6 +316,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HiMCM_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Projects&amp;Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,28 +390,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Projects&amp;Assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Projects&amp;Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -428,18 +414,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.HiMCM (1)" />
-      <item itemvalue="Python.stack" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.HiMCM_m1_top10" />
       <item itemvalue="Python.preinpost" />
+      <item itemvalue="Python.HiMCM_2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.preinpost" />
+        <item itemvalue="Python.HiMCM_2" />
         <item itemvalue="Python.HiMCM (1)" />
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.HiMCM_m1_top10" />
-        <item itemvalue="Python.stack" />
+        <item itemvalue="Python.preinpost" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -458,14 +444,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1477" height="797" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25686136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32932332" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32932332" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -479,7 +464,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3026038" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.3026038" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
@@ -524,7 +509,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/q2 (1).py" />
     <entry file="file://$USER_HOME$/Downloads/S3.py" />
     <entry file="file://$USER_HOME$/Downloads/S1C6李明阳Q3 (1).py" />
     <entry file="file://$USER_HOME$/Downloads/S1C6李明阳Q3.py" />
@@ -672,48 +656,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM_m1_top10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="93" column="35" lean-forward="true" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
-          <folding>
-            <element signature="e#190#694#0" />
-            <marker date="1542252535744" expanded="true" signature="713:5182" ph="..." />
-            <marker date="1542252535744" expanded="true" signature="3212:3450" ph="..." />
-            <marker date="1542252535744" expanded="false" signature="3466:5182" ph="..." />
-            <marker date="1542252535744" expanded="true" signature="13269:13271" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sorting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="138" column="28" selection-start-line="138" selection-start-column="28" selection-end-line="138" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <marker date="1541321607990" expanded="true" signature="2584:3075" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -721,9 +667,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
           <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2584">
+          <caret line="138" column="28" selection-start-line="138" selection-start-column="28" selection-end-line="138" selection-end-column="28" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <marker date="1541549133011" expanded="true" signature="3280:3285" ph="..." />
+            <element signature="e#0#31#0" expanded="true" />
+            <marker date="1541321607990" expanded="true" signature="2584:3075" ph="..." />
           </folding>
         </state>
       </provider>
@@ -742,10 +695,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/preinpost.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        <state relative-caret-position="358">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM_m1_top10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="40" />
           <folding>
-            <marker date="1542253926351" expanded="true" signature="417:422" ph="..." />
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#129#633#0" />
+            <element signature="e#655#899#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#190#694#0" />
+            <element signature="e#718#963#0" />
+            <element signature="e#999#2962#0" />
+            <element signature="e#2990#3193#0" />
+            <marker date="1542365800209" expanded="true" signature="732:6161" ph="..." />
+            <marker date="1542365800209" expanded="false" signature="3231:3411" ph="..." />
+            <marker date="1542365800209" expanded="true" signature="3428:6161" ph="..." />
+            <marker date="1542365800209" expanded="true" signature="13973:13975" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="31" column="4" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
