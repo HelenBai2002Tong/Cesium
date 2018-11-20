@@ -25,8 +25,8 @@ class Queue():
     def size(self):
         return len(self.queue)
     def dequeue(self):
-        a=self.queue[-1]
-        self.queue=self.queue[0:-1]
+        a=self.queue[0]
+        self.queue=self.queue[1:]
         return a
     def __str__(self):
         return str(self.queue)
