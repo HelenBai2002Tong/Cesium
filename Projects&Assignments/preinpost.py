@@ -19,7 +19,7 @@ class Queue():
     def __init__(self):
         self.queue=[]
     def IsEmpty(self):
-        return self.queue==[]
+        return self.queue==[]          
     def enqueue(self,element):
         self.queue=self.queue+[element]
     def size(self):
