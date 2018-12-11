@@ -6,36 +6,36 @@ import numpy as np
 #     x.append(i)
 #     z=3*i+5
 #     y.append(z)
-# mtp.plot(x,y,'b--')
+# mtp.plot(x,y,'bo')
 # mtp.xlabel("x")
 # mtp.ylabel("y")
 # mtp.axis([0,5,0,30])
 # mtp.show()
-
+#print(np.linspace(0,5,50))
 # mtp.plot([1,1.5,3,4],[4,4,2,2],label='1')
 # mtp.plot([1.5,2,3,4],[1,4,3,1],label="2")
 # mtp.legend()
 # mtp.show()
-
+#
 # mtp.scatter([1,1.5,3,4],[4,4,2,2])
 # mtp.scatter([1.5,2,3,4],[1,4,3,1])
 # mtp.title("Rick's")
 # mtp.show()
-#
-# a=np.arange(0,400,8)
-# b=np.random.randint(10,300,50)
-# c=np.random.ranf(50)
-# d=a*c*2
-# colors=['deeppink','pink','lightpink','hotpink','plum','thistle']
-# e=np.random.randint(0,6,50)
-# mtp.scatter(a,d,c=[colors[i] for i in e],s=b)
-# mtp.show()
 
-# a=np.random.randint(0,5,10)
+a=np.arange(0,400,8)
+b=np.random.randint(10,300,50)
+c=np.random.ranf(50)
+d=a*c*2
+colors=['deeppink','pink','lightpink','hotpink','plum','thistle']
+e=np.random.randint(0,6,50)
+mtp.scatter(a,d,c=[colors[i] for i in e],s=b)
+mtp.show()
+
+# a=np.random.randint(1,5,10)
 # print(a)
 # b=np.random.ranf(5)
 # print(b)
-# c=np.random.rand(10)
+# c=np.random.randn(10)
 # print(c)
 # d=c*5+10 # u=10, sd = 5
 # print(d)
@@ -44,8 +44,8 @@ import numpy as np
 # #a=a*10
 # mtp.hist(a,bins=100)
 # mtp.show()
-
-
+#
+#
 # mu, sigma = 100, 15
 # x = mu + sigma * np.random.randn(100000)
 # # the histogram of the data
@@ -53,7 +53,7 @@ import numpy as np
 # mtp.grid(True)
 # mtp.text(60,2000,r'$\mu=100,\sigma=15$')
 # mtp.show()
-
+#
 # a=30
 # b=30
 # c=45
