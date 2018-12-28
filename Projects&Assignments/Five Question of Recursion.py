@@ -72,13 +72,13 @@ def move(l):
         t.lt(30)
         t.backward(l)
         t.pendown()
-'''t.speed(7)
+t.speed(7)
 t.hideturtle()
 t.bgcolor("lavenderblush")
 t.rt(90)
 t.fd(100)
 t.rt(180)
 move(100)
-t.mainloop()'''
+t.mainloop()
 
 help(mysum)

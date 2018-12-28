@@ -91,22 +91,22 @@ for i in range(int(population2)):
 np.random.shuffle(show)
 show=np.reshape(show,(size,size))
 Tell=False
+temp=[]
+mark=[]
+array1=np.ones((size,size))
+print(array1)
 while not Tell:
     count = 0
     for i in range(size):
         for j in range(size):
+            if show[i][j]==0:
+                mark.append((i,j))
             if is_happy(i,j,happy,show,size):
                 count=count+1
             if not is_happy(i,j,happy,show,size):
                 Tell=False
-                print("before","\n",show)
-                for m in range(size):
-                    for n in range(size):
-                        if show[m][n]==0:
-                            index1=m
-                            index2=n
-                show[index1][index2]=show[i][j]
-                show[i][j]=0
+                temp.append((i,j))
+
                 print(show)
     if count==size**2:
         Tell=True
