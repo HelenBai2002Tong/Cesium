@@ -80,13 +80,12 @@ while not s.IsEmpty():
                 finish=1
             else:
                 T=T.left
+    print('\n',"T")
+    inp(T)
+    print('\n',"MY")
+    inp(Mytree)
 
 inp(Mytree)
-
-
-
-
-
 
 
 

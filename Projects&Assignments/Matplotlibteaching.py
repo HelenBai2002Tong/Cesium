@@ -1,16 +1,17 @@
 import matplotlib.pyplot as mtp
 import numpy as np
-# x=[]
-# y=[]
-# for i in range(6):
-#     x.append(i)
-#     z=3*i+5
-#     y.append(z)
-# mtp.plot(x,y,'bo')
-# mtp.xlabel("x")
-# mtp.ylabel("y")
-# mtp.axis([0,5,0,30])
-# mtp.show()
+x=[]
+y=[]
+for i in range(90):
+    x.append(i)
+    z=((np.sin(np.radians(i)))**0.5*np.cos(np.radians(i)))
+    y.append(z)
+print(y[15],y[25],y[36],y[43],y[54],y[63]) 
+mtp.plot(x,y)
+mtp.xlabel("x")
+mtp.ylabel("y")
+mtp.axis([0,90,0,1])
+mtp.show()
 #print(np.linspace(0,5,50))
 # mtp.plot([1,1.5,3,4],[4,4,2,2],label='1')
 # mtp.plot([1.5,2,3,4],[1,4,3,1],label="2")
@@ -21,15 +22,15 @@ import numpy as np
 # mtp.scatter([1.5,2,3,4],[1,4,3,1])
 # mtp.title("Rick's")
 # mtp.show()
-
-a=np.arange(0,400,8)
-b=np.random.randint(10,300,50)
-c=np.random.ranf(50)
-d=a*c*2
-colors=['deeppink','pink','lightpink','hotpink','plum','thistle']
-e=np.random.randint(0,6,50)
-mtp.scatter(a,d,c=[colors[i] for i in e],s=b)
-mtp.show()
+#
+# a=np.arange(0,400,8)
+# b=np.random.randint(10,300,50)
+# c=np.random.ranf(50)
+# d=a*c*2
+# colors=['deeppink','pink','lightpink','hotpink','plum','thistle']
+# e=np.random.randint(0,6,50)
+# mtp.scatter(a,d,c=[colors[i] for i in e],s=b)
+# mtp.show()
 
 # a=np.random.randint(1,5,10)
 # print(a)
@@ -65,22 +66,22 @@ mtp.show()
 # c=np.tan(c)
 # print(a,b,c)
 
-def f(t):
-    return np.sin(2*t)
-
-t1 = np.arange(0.0, 10.0, 0.1)
-t2 = np.arange(0.0, 10.0, 0.02)
-
-mtp.figure(1)
-mtp.subplot(2,1,1)
-mtp.plot(t1, f(t1), 'bo', t2, f(t2), 'k')
-
-mtp.subplot(2,1,2)
-mtp.plot(t2, np.cos(2*t2), 'r--')
-mtp.axis([0,10,-1,1])
-mtp.annotate("local max",xy=(6.28,1),xytext=(4,0.5)
-             ,arrowprops=dict(facecolor='black',
-                              headwidth=5, width=0.5))
+# def f(t):
+#     return np.sin(2*t)
+#
+# t1 = np.arange(0.0, 10.0, 0.1)
+# t2 = np.arange(0.0, 10.0, 0.02)
+#
+# mtp.figure(1)
+# mtp.subplot(2,1,1)
+# mtp.plot(t1, f(t1), 'bo', t2, f(t2), 'k')
+#
+# mtp.subplot(2,1,2)
+# mtp.plot(t2, np.cos(2*t2), 'r--')
+# mtp.axis([0,10,-1,1])
+# mtp.annotate("local max",xy=(6.28,1),xytext=(4,0.5)
+#              ,arrowprops=dict(facecolor='black',
+#                               headwidth=5, width=0.5))
 mtp.show()
 
 

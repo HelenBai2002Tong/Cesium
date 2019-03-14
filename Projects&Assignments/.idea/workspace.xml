@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="16fe304d-82ae-4f63-9595-0d740bd5e485" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matplotlibteaching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matplotlibteaching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmingpracticeforfinal.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmingpracticeforfinal.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +35,7 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$Q1Oct31.coverage" NAME="Q1Oct31 Coverage Results" MODIFIED="1540946814174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$c7_3.coverage" NAME="c7 3 Coverage Results" MODIFIED="1541089882018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$test1yuanyuweis1c1.coverage" NAME="test1yuanyuweis1c1 Coverage Results" MODIFIED="1543815345562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/袁雨薇 学生_6934589_assignsubmission_file_" />
-    <SUITE FILE_PATH="coverage/Projects_Assignments$programmingpracticeforfinal.coverage" NAME="programmingpracticeforfinal Coverage Results" MODIFIED="1548233042774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$programmingpracticeforfinal.coverage" NAME="programmingpracticeforfinal Coverage Results" MODIFIED="1548292870721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$s1c6_quzimo_quiz.coverage" NAME="s1c6 quzimo quiz Coverage Results" MODIFIED="1541085569287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$PY.coverage" NAME="PY Coverage Results" MODIFIED="1541085445446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$test2yuanyuweis1c1.coverage" NAME="test2yuanyuweis1c1 Coverage Results" MODIFIED="1543815370554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/袁雨薇 学生_6934589_assignsubmission_file_" />
@@ -44,8 +46,9 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$loop3.coverage" NAME="loop3 Coverage Results" MODIFIED="1541090236443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$myzr2.coverage" NAME="myzr测试2 Coverage Results" MODIFIED="1541086310882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$HiMCM_m1_top10.coverage" NAME="HiMCM_m1_top10 Coverage Results" MODIFIED="1548049883447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
-    <SUITE FILE_PATH="coverage/Projects_Assignments$Q1.coverage" NAME="Q1 Coverage Results" MODIFIED="1541081915917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$NIHE.coverage" NAME="NIHE Coverage Results" MODIFIED="1548929338221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/ruxuexsfh/Files" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$preinpost.coverage" NAME="preinpost Coverage Results" MODIFIED="1542254865431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$Q1.coverage" NAME="Q1 Coverage Results" MODIFIED="1550572432457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$c7.coverage" NAME="c7 Coverage Results" MODIFIED="1541079590000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1541087422440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$sorting.coverage" NAME="sorting Coverage Results" MODIFIED="1541321566814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -56,9 +59,11 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$Q3.coverage" NAME="Q3 Coverage Results" MODIFIED="1541091558477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$s1c6_3.coverage" NAME="s1c6高栉雨-3 Coverage Results" MODIFIED="1541090480770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$statictrianglt.coverage" NAME="statictrianglt Coverage Results" MODIFIED="1543307043299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$IMMC2019__1_.coverage" NAME="IMMC2019 (1) Coverage Results" MODIFIED="1549009694554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$1.coverage" NAME="1 Coverage Results" MODIFIED="1543652807323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/昝泽琦 学生_6935077_assignsubmission_file_" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$test1__S1C6.coverage" NAME="test1 李紫徐 S1C6 Coverage Results" MODIFIED="1541080623820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$stack.coverage" NAME="stack Coverage Results" MODIFIED="1542158667493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$scratch_24.coverage" NAME="scratch_24 Coverage Results" MODIFIED="1549083329607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$HiMCM__1_.coverage" NAME="HiMCM (1) Coverage Results" MODIFIED="1542364657829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$Fujisantest.coverage" NAME="Fujisantest Coverage Results" MODIFIED="1548049709692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../想做的一些东西/hhh" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$scratch_18.coverage" NAME="scratch_18 Coverage Results" MODIFIED="1541911700440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
@@ -71,8 +76,9 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$q4.coverage" NAME="q4 Coverage Results" MODIFIED="1543815026339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/宣恺之 学生_6934593_assignsubmission_file_" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$62.coverage" NAME="课6小测2 Coverage Results" MODIFIED="1541086997356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$q1__1_.coverage" NAME="q1 (1) Coverage Results" MODIFIED="1541082808845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$PlanB.coverage" NAME="PlanB Coverage Results" MODIFIED="1549074030464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$liuzhihan_Q1.coverage" NAME="liuzhihan Q1 Coverage Results" MODIFIED="1541080323953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
-    <SUITE FILE_PATH="coverage/Projects_Assignments$Matplotlibteaching.coverage" NAME="Matplotlibteaching Coverage Results" MODIFIED="1548050136285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$Matplotlibteaching.coverage" NAME="Matplotlibteaching Coverage Results" MODIFIED="1548995502983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$1__1_.coverage" NAME="会考练习1 (1) Coverage Results" MODIFIED="1541093284347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$s1c6_2.coverage" NAME="s1c6高栉雨-2 Coverage Results" MODIFIED="1541084732913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$turtleteaching.coverage" NAME="turtleteaching Coverage Results" MODIFIED="1545139250761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -80,12 +86,13 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$Q2_C1_C6.coverage" NAME="循环结构测试Q2-C1&amp;C6 Coverage Results" MODIFIED="1541144302007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../会考作业/示例代码" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$_C1_C6.coverage" NAME="选择结构测试-C1&amp;C6 Coverage Results" MODIFIED="1541135520891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$S1.coverage" NAME="S1 Coverage Results" MODIFIED="1541079158784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
-    <SUITE FILE_PATH="coverage/Projects_Assignments$getdata.coverage" NAME="getdata Coverage Results" MODIFIED="1542125258823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$getdata.coverage" NAME="getdata Coverage Results" MODIFIED="1548937756423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$S1C6__1_.coverage" NAME="S1C6李明阳 (1) Coverage Results" MODIFIED="1541079490931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$scratch_21.coverage" NAME="scratch_21 Coverage Results" MODIFIED="1542110010111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$1__2_.coverage" NAME="1 (2) Coverage Results" MODIFIED="1541081856649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$liuzhihan_Q2.coverage" NAME="liuzhihan Q2 Coverage Results" MODIFIED="1541084598825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$testOct31.coverage" NAME="testOct31 Coverage Results" MODIFIED="1540956360087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$Q21.coverage" NAME="Q21 Coverage Results" MODIFIED="1550573929865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$quicksort.coverage" NAME="quicksort Coverage Results" MODIFIED="1541044765453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$loop.coverage" NAME="loop Coverage Results" MODIFIED="1541080139112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$s1c6_1.coverage" NAME="s1c6高栉雨-1 Coverage Results" MODIFIED="1541080411139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
@@ -96,8 +103,9 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$myzr1.coverage" NAME="myzr测试1 Coverage Results" MODIFIED="1541081788691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$S1C6_Cindy_Tao_Q3.coverage" NAME="S1C6 Cindy Tao Q3 Coverage Results" MODIFIED="1541092160503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$scratch_14.coverage" NAME="scratch_14 Coverage Results" MODIFIED="1540884036921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
-    <SUITE FILE_PATH="coverage/Projects_Assignments$HiMCM_2.coverage" NAME="HiMCM_2 Coverage Results" MODIFIED="1545907653904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$HiMCM_2.coverage" NAME="HiMCM_2 Coverage Results" MODIFIED="1548820458891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$scratch_20.coverage" NAME="scratch_20 Coverage Results" MODIFIED="1542018546919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$scratch_23.coverage" NAME="scratch_23 Coverage Results" MODIFIED="1549011157329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$text3_10_30.coverage" NAME="text3 10.30 Coverage Results" MODIFIED="1541089962036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$turtle_if.coverage" NAME="turtle+if Coverage Results" MODIFIED="1541090078211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/ruxuexsfh/Files" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$Segregation.coverage" NAME="Segregation Coverage Results" MODIFIED="1545907543669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -110,7 +118,7 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$63.coverage" NAME="课6小测3 Coverage Results" MODIFIED="1541091685232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$turtlework.coverage" NAME="turtlework Coverage Results" MODIFIED="1545139380446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$Liuzhihan.coverage" NAME="Liuzhihan Coverage Results" MODIFIED="1541075821670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
-    <SUITE FILE_PATH="coverage/Projects_Assignments$HiMCM.coverage" NAME="HiMCM Coverage Results" MODIFIED="1548049937695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$HiMCM.coverage" NAME="HiMCM Coverage Results" MODIFIED="1548840904515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$1_10_23.coverage" NAME="1.10.23 Coverage Results" MODIFIED="1541075417644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$s1c6.coverage" NAME="梁颖昕s1c6 Coverage Results" MODIFIED="1541087583090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1541092326083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
@@ -119,55 +127,56 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$2__1_.coverage" NAME="2 (1) Coverage Results" MODIFIED="1541086219530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$eight_queen.coverage" NAME="eight_queen Coverage Results" MODIFIED="1545821538881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eight_queen" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$_AP.coverage" NAME="选择结构测试-AP Coverage Results" MODIFIED="1541135981525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../会考作业/示例代码" />
-    <SUITE FILE_PATH="coverage/Projects_Assignments$Q2.coverage" NAME="Q2 Coverage Results" MODIFIED="1541086800874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$Q2.coverage" NAME="Q2 Coverage Results" MODIFIED="1549093752888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$Animal.coverage" NAME="Animal Coverage Results" MODIFIED="1543365438035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$DecisionTree.coverage" NAME="DecisionTree Coverage Results" MODIFIED="1543463996133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$IMMC2019.coverage" NAME="IMMC2019 Coverage Results" MODIFIED="1548933736133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$test2__S1C6.coverage" NAME="test2 李紫徐 S1C6 Coverage Results" MODIFIED="1541084863949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
-    <SUITE FILE_PATH="coverage/Projects_Assignments$test.coverage" NAME="test Coverage Results" MODIFIED="1542213683961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$test.coverage" NAME="test Coverage Results" MODIFIED="1549091363087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$2.coverage" NAME="考试2 Coverage Results" MODIFIED="1541093503504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/ruxuexsfh/Files" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="35194044">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="36" />
+          <entry key="project.closed" value="43" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="9" />
-          <entry key="project.open.time.6" value="11" />
+          <entry key="project.open.time.5" value="10" />
+          <entry key="project.open.time.6" value="13" />
           <entry key="project.open.time.7" value="9" />
-          <entry key="project.open.time.8" value="7" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="45" />
+          <entry key="project.open.time.8" value="8" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="221" />
+          <entry key="py" value="244" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="210" />
-          <entry key="Scratch" value="11" />
+          <entry key="Python" value="231" />
+          <entry key="Scratch" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Linked list" value="9" />
           <entry key="dummy" value="2" />
-          <entry key="py" value="26577" />
+          <entry key="py" value="32607" />
           <entry key="stack" value="326" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="24906" />
-          <entry key="Scratch" value="2006" />
+          <entry key="Python" value="30637" />
+          <entry key="Scratch" value="2305" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -177,25 +186,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/programmingpracticeforfinal.py">
+        <entry file="file://$USER_HOME$/Desktop/Q21.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
-              <folding>
-                <element signature="e#41#536#0" />
-                <element signature="e#808#1171#0" />
-                <marker date="1548232962867" expanded="true" signature="36:41" ph="..." />
-                <marker date="1548232962867" expanded="true" signature="1414:1415" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinaryTree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="13" selection-start-line="13" selection-end-line="18" selection-end-column="16" />
+            <state relative-caret-position="209">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -226,17 +220,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/testOct31.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" />
-        <option value="$PROJECT_DIR$/Q1Oct31.py" />
-        <option value="$PROJECT_DIR$/testOct31.py" />
-        <option value="$PROJECT_DIR$/quicksort.py" />
-        <option value="$USER_HOME$/Downloads/text 10.30.py" />
-        <option value="$USER_HOME$/Downloads/loop2.py" />
-        <option value="$USER_HOME$/Downloads/1.py" />
-        <option value="$USER_HOME$/Downloads/test2.py" />
         <option value="$USER_HOME$/Downloads/T3.py" />
         <option value="$USER_HOME$/Downloads/s1c6梁颖昕3.py" />
         <option value="$USER_HOME$/Documents/WeChat Files/ruxuexsfh/Files/考试2.py" />
@@ -254,7 +237,6 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
-        <option value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/getdata.py" />
         <option value="$PROJECT_DIR$/stack.py" />
         <option value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/test.py" />
         <option value="$PROJECT_DIR$/preinpost.py" />
@@ -267,7 +249,6 @@
         <option value="$PROJECT_DIR$/DecisionTree.py" />
         <option value="$USER_HOME$/Desktop/昝泽琦 学生_6935077_assignsubmission_file_/2.py" />
         <option value="$USER_HOME$/Desktop/袁瑞 学生_6934579_assignsubmission_file_/等边三角形_袁瑞.py" />
-        <option value="$PROJECT_DIR$/Matplotlibteaching.py" />
         <option value="$PROJECT_DIR$/Segregation.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.py" />
         <option value="$PROJECT_DIR$/turtleteaching.py" />
@@ -277,6 +258,19 @@
         <option value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM_2.py" />
         <option value="$PROJECT_DIR$/perception.py" />
         <option value="$PROJECT_DIR$/programmingpracticeforfinal.py" />
+        <option value="$USER_HOME$/Documents/WeChat Files/ruxuexsfh/Files/NIHE.py" />
+        <option value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/IMMC2019.py" />
+        <option value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/getdata.py" />
+        <option value="$PROJECT_DIR$/Matplotlibteaching.py" />
+        <option value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/IMMC2019.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.py" />
+        <option value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/PlanB.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py" />
+        <option value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/test.py" />
+        <option value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/Q2.py" />
+        <option value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/Q1.py" />
+        <option value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/Q21.py" />
+        <option value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/Q3.py" />
       </list>
     </option>
   </component>
@@ -287,21 +281,26 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-14" />
-    <option name="width" value="1323" />
-    <option name="height" value="1402" />
+    <option name="x" value="1232" />
+    <option name="y" value="7" />
+    <option name="width" value="1334" />
+    <option name="height" value="1413" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Tong/数学/数学建模/HiMCM/HiMCM_2.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/stack.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM_2.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -323,8 +322,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.programmingpracticeforfinal">
-    <configuration name="BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Q21">
+    <configuration name="Q1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Projects&amp;Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -332,56 +331,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryTree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Five Question of Recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Projects&amp;Assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Five Question of Recursion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="HiMCM" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Projects&amp;Assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/Q1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -390,7 +345,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Matplotlibteaching" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Projects&amp;Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -398,12 +353,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matplotlibteaching.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/Q2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -412,7 +367,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="programmingpracticeforfinal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q21" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Projects&amp;Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -420,12 +375,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmingpracticeforfinal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/Q21.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_24" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Projects&amp;Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Projects&amp;Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -435,19 +434,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.HiMCM" />
-      <item itemvalue="Python.Five Question of Recursion" />
-      <item itemvalue="Python.Matplotlibteaching" />
-      <item itemvalue="Python.programmingpracticeforfinal" />
-      <item itemvalue="Python.BinaryTree" />
+      <item itemvalue="Python.Q2" />
+      <item itemvalue="Python.scratch_24" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.Q1" />
+      <item itemvalue="Python.Q21" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.programmingpracticeforfinal" />
-        <item itemvalue="Python.BinaryTree" />
-        <item itemvalue="Python.Matplotlibteaching" />
-        <item itemvalue="Python.Five Question of Recursion" />
-        <item itemvalue="Python.HiMCM" />
+        <item itemvalue="Python.Q21" />
+        <item itemvalue="Python.Q1" />
+        <item itemvalue="Python.Q2" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.scratch_24" />
       </list>
     </recent_temporary>
   </component>
@@ -475,14 +474,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1477" height="797" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25686136" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26038" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36541355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36090225" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39849624" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -496,30 +494,30 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.4370162" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32793808" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25686136" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26038" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32932332" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36090225" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39849624" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32932332" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32932332" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32932332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3026038" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32793808" />
       <window_info anchor="right" id="Database" order="4" />
     </layout-to-restore>
   </component>
@@ -544,19 +542,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/方沛灵 学生_6935085_assignsubmission_file_/cs1.py" />
-    <entry file="file://$USER_HOME$/Desktop/方沛灵 学生_6935085_assignsubmission_file_/cs2.py" />
-    <entry file="file://$USER_HOME$/Desktop/昝泽琦 学生_6935077_assignsubmission_file_/3.py" />
-    <entry file="file://$USER_HOME$/Desktop/昝泽琦 学生_6935077_assignsubmission_file_/4.py" />
-    <entry file="file://$USER_HOME$/Desktop/昝泽琦 学生_6935077_assignsubmission_file_/1.py" />
-    <entry file="file://$USER_HOME$/Desktop/李可桢 学生_6934831_assignsubmission_file_/李可桢 S1C6.py" />
-    <entry file="file://$USER_HOME$/Desktop/李可桢 学生_6934831_assignsubmission_file_/李可桢 S1C62.py" />
-    <entry file="file://$USER_HOME$/Desktop/李可桢 学生_6934831_assignsubmission_file_/李可桢 S1C63.py" />
-    <entry file="file://$USER_HOME$/Desktop/李可桢 学生_6934831_assignsubmission_file_/李可桢 S1C64.py" />
-    <entry file="file://$USER_HOME$/Desktop/昝泽琦 学生_6935077_assignsubmission_file_/2.py" />
-    <entry file="file://$USER_HOME$/Desktop/宣恺之 学生_6934593_assignsubmission_file_/q1.py" />
-    <entry file="file://$USER_HOME$/Desktop/宣恺之 学生_6934593_assignsubmission_file_/q2.py" />
-    <entry file="file://$USER_HOME$/Desktop/宣恺之 学生_6934593_assignsubmission_file_/q3.py" />
     <entry file="file://$USER_HOME$/Desktop/宣恺之 学生_6934593_assignsubmission_file_/q4.py" />
     <entry file="file://$USER_HOME$/Desktop/禹继骅 学生_6934580_assignsubmission_file_/4.禹继骅.py" />
     <entry file="file://$USER_HOME$/Desktop/禹继骅 学生_6934580_assignsubmission_file_/3.禹继骅.py" />
@@ -634,9 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1729">
           <caret line="93" column="29" selection-start-line="93" selection-end-line="94" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -651,9 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -661,39 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="97" column="15" selection-start-line="97" selection-start-column="15" selection-end-line="97" selection-end-column="15" />
-          <folding>
-            <element signature="e#223#2566#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM_m1_top10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -701,19 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
           <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="45" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Matplotlibteaching.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="58" column="6" lean-forward="true" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
-          <folding>
-            <element signature="e#1290#1308#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -731,23 +664,145 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/programmingpracticeforfinal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1691">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="247">
           <caret line="13" selection-start-line="13" selection-end-line="18" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmingpracticeforfinal.py">
+    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/IMMC2019.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/getdata.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+        <state relative-caret-position="152">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/ruxuexsfh/Files/NIHE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM_m1_top10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/IMMC2019.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="36" selection-end-column="21" />
           <folding>
-            <element signature="e#41#536#0" />
-            <element signature="e#808#1171#0" />
-            <marker date="1548232962867" expanded="true" signature="36:41" ph="..." />
-            <marker date="1548232962867" expanded="true" signature="1414:1415" ph="..." />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/PlanB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1549074434172" expanded="true" signature="1063:1064" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/Q1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/Q21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/Q3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Matplotlibteaching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="111" column="10" selection-start-line="111" selection-start-column="10" selection-end-line="111" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/Q2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Q21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
