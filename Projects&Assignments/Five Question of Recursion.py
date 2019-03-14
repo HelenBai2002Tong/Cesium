@@ -37,6 +37,8 @@ def fib(n):
     else:
         return(fib(n-1)+fib(n-2))
 
+print(fib(21))
+
 def fibs(n):
     if n < 0 :
         return 0
