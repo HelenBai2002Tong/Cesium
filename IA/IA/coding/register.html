@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+</head>
+<body>
+User Name:<br>
+<input id="nickname" type="text"><br>
+Password:<br>
+<input id="password" type="text"><br>
+Confirm Password:<br>
+<input id="confirm" type="text"><br>
+<script>
+    function check() {
+        var x = document.getElementById("password").value;
+        var y = document.getElementById("confirm").value;
+        if (x===y) {
+            alert("Successful");
+        }
+        else{
+            alert("The passwords are inconsistent")
+        }
+    }
+</script>
+<button type="button" onclick="check()">Register</button>
+<br>
+<a href="login.html"><button type="button">Back to log in page</button></a>
+
+
+</body>
+</html>

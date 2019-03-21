@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tologin</title>
+</head>
+<body>
+<h2>Log in</h2>
+Username:<br>
+<input id="demo" type="text"><br>
+<script>
+    function myFunction() {
+        var x = document.getElementById("demo").value;
+        if (x == "" || isNaN(x)) {
+            alert("不是数字");
+        }
+    }
+</script>
+Password:<br>
+<input id="pass" type="text">
+<br>
+<button type="button" onclick="myFunction()">log in</button>
+<button type="button" onclick="myFunction()">Register Now!</button>
+</body>
+</html>
