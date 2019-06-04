@@ -12,6 +12,7 @@ mtp.xlabel("x")
 mtp.ylabel("y")
 mtp.axis([0,90,0,1])
 mtp.show()
+
 #print(np.linspace(0,5,50))
 # mtp.plot([1,1.5,3,4],[4,4,2,2],label='1')
 # mtp.plot([1.5,2,3,4],[1,4,3,1],label="2")

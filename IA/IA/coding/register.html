@@ -3,14 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <title>Register</title>
+    <style>
+        div
+        {
+            position: absolute;
+            top: 30%;
+            left:45%;
+        }
+    </style>
 </head>
 <body>
+<div>
+
+    <h2>Register</h2>
 User Name:<br>
-<input id="nickname" type="text"><br>
+<label for="nickname"></label><input id="nickname" type="text"><br>
 Password:<br>
-<input id="password" type="text"><br>
+<label for="password"></label><input id="password" type="text"><br>
 Confirm Password:<br>
-<input id="confirm" type="text"><br>
+<label for="confirm"></label><input id="confirm" type="text"><br>
 <script>
     function check() {
         var x = document.getElementById("password").value;
@@ -27,6 +38,6 @@ Confirm Password:<br>
 <br>
 <a href="login.html"><button type="button">Back to log in page</button></a>
 
-
+</div>
 </body>
 </html>

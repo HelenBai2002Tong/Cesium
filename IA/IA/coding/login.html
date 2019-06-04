@@ -3,23 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <title>Tologin</title>
+    <style>
+        div
+        {
+            position: absolute;
+            width:300px;
+            height: 250px;
+            top: 30%;
+            left: 45%;
+
+        }
+
+    </style>
+
 </head>
 <body>
+<div>
 <h2>Log in</h2>
+<p>
 Username:<br>
-<input id="demo" type="text"><br>
-<script>
-    function myFunction() {
-        var x = document.getElementById("demo").value;
-        if (x == "" || isNaN(x)) {
-            alert("不是数字");
-        }
-    }
-</script>
+<label for="username"></label><input id="username" type="text"><br>
 Password:<br>
-<input id="pass" type="text">
+<label for="pass"></label><input id="pass" type="text">
 <br>
 <button type="button" onclick="myFunction()">log in</button>
+    <a href="register.html">
 <button type="button" onclick="myFunction()">Register Now!</button>
+    </a>
+</p>
+</div>
 </body>
 </html>
