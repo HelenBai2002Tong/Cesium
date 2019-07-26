@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+    <style>
+        div
+        {
+            position: absolute;
+            top: 20%;
+            left:45%;
+        }
+    </style>
+</head>
+<body>
+<form action="register.php" method="post">
+  
+        
+    <div>
+        <h2>Register</h2>
+        User Name:<br><!-- input space for username -->
+       <label for="nickname"></label><input id="nickname" name="user" type="text" ><br>
+	    Email Address(e.g. Example@cat.com)<br><!-- input space for email address -->
+		<label for="contact"></label><input id="contact" name="contact" type="text" ><br>
+        Password:<br><!-- input space for password -->
+        <label for="password"></label><input id="password" name="password" type="password"><br>
+        Confirm Password:<br><!-- input space for confirming password -->
+        <label for="confirm"></label><input id="confirm" name="repassword" type="password" ><br>
+		
+		<p>Verification code :<input type="text" name="authcode" value=""/></p><!-- input space for verifycode -->
+		<!-- space for verification code -->
+		 <p><img src="verifycode.php" onClick="this.src='verifycode.php?nocache='+Math.random()"  style="cursor:hand" alt="click to change"/>
+		 (Click to change the picture )</p>
+    
+   
+        <button type="submit" name="submit" >Register</button>
+		
+        <br>
+        <a href="login.html"><!-- button for click to log in -->
+            <button type="button">Back to log in page</button>
+        </a>
+
+    </div>
+	 
+</form>
+</body>
+</html>

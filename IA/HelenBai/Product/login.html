@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tologin</title>
+  <style>
+        div
+        {
+            position: absolute;
+            top: 30%;
+            left: 45%;
+
+        }
+		p
+		{
+			position:absolute;
+			top : 53%;
+			left: 43% ;
+		}
+
+    </style> 
+
+</head>
+
+<body>
+<form action="login.php" method="post">
+<div>
+<h2>Log in</h2>
+
+Username:<br>
+<!-- input for username  -->
+<label for="username" class="label"></label><input id="username" name="username" type="text" class='input'/><br>
+Password:<br>
+<!-- input for password  -->
+<label for="password" class="label"></label><input id="password" name="password" type='password' class='input'/>
+<br>
+<br>
+</div>
+<p>
+<!-- button to click for submitting -->
+<button type="submit" name='submit'>log in</button>
+
+<a href="register.html"><button type="button" >Register Now!</button></a>
+<!-- visitor mode jumping button  -->
+<a href="mainviewing.php">
+<button type="button" >Visitor Mode</button>
+
+</a>
+</p>
+
+</center>
+</form>
+</body>
+
+</html>
