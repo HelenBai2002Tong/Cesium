@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profile</title>
+    <style>
+	ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+padding-top:6px;
+padding-bottom:6px;
+}
+li
+{
+display:inline;
+}
+a:link,a:visited
+{
+font-weight:bold;
+color:#FFFFFF;
+background-color:#bebebe;
+text-align:center;
+padding:6px;
+text-decoration:none;
+text-transform:uppercase;
+}
+a:hover,a:active
+{
+background-color:#cc0000;
+}
+#title
+{
+width:200px;
+height:20px;
+}
+#description
+{
+width:400px;
+height:100px;
+}
+
+div
+{
+position: absolute;
+top: 30%;
+left: 45%;
+}
+	
+</style>
+</head>
+<body>
+<br>
+<br>
+<center>
+<h2>FatCats</h2>
+
+<ul>
+<li><a href="mainviewing.php">Moments</a></li><!-- jump to the mainviewing page -->
+<li><a href="post.html">Post a new message</a></li><!-- jump to the post page -->
+<li><a href="profile1.php">Profile</a></li><!-- jump to the profile page -->
+<li><a href="logout.php">LOG OUT</a></li><!-- click to log out -->
+</ul>
+</center>
+<form action="profile.php" method="post">
+    <div>
+        <h2>UPDATE Profile</h2>
+	   Contact infomation <br>
+		<label for="contact"></label><input id="contact" name="contact" type="text" ><?php echo "$conErr";?><br>
+        <button type="submit" name="submit" >Save Changes</button>
+    </div>	 
+</form>
+</body>
+</html>
