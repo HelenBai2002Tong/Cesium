@@ -1,18 +1,18 @@
 <?php
 session_start();
-if(!isset($_POST['submit'])){//whether the button submit is clicked
+if(!isset($_POST['submit'])){
     exit('Illegal');
 }
 include('testphpdb.php');
-$username=$_POST['username'];//get the username from the html page
-$password=$_POST['password'];//get the password from the html page
+$username=$_POST['username'];
+$password=$_POST['password'];
 
-if ($username&&$password){//test whether the both username and password is inputted
+if ($username&&$password){//test whether the password is correct
     
 	$sql="select * from userinfo where name='$username' ";
 	$resultpwd = $connection->query($sql);
 	$pwd = mysqli_fetch_array($resultpwd);
-    $passvery = password_verify($password, $pwd['password']);//password verification
+    $passvery = password_verify($password, $pwd['password']);
 	if ($passvery){
 		$_SESSION['username']=$username;// set a session for the username for further use
 		header("refresh:0;url=mainviewing.php");// jumping to the mainviewing page

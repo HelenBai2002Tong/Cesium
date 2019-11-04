@@ -1,5 +1,5 @@
 <?php
-include('Type.php');//get the variable from type
+include('Type.php');
 ?>
 <html lang="en">
 <head>
@@ -51,10 +51,10 @@ height:100px;
 <div>
 <h2>FatCats</h2>
 <ul>
-<li><a href="mainviewing.php">Moments</a></li><!-- jump to the mainviewing page -->
-<li><a href="post.html">Post a new message</a></li><!-- jump to the post page -->
-<li><a href="profile1.php">Profile</a></li><!-- jump to the profile page -->
-<li><a href="logout.php">LOG OUT</a></li><!-- click to log out -->
+<li><a href="mainviewing.php">Moments</a></li>
+<li><a href="post.html">Post a new message</a></li>
+<li><a href="profile1.php">Profile</a></li>
+<li><a href="logout.php">LOG OUT</a></li>
 </ul>
 
 </div>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel=”icon” href=”/favicon.ico” mce_href=”/favicon.ico” type=”image/x-icon”>
+<link rel=”shortcut icon” href=”/favicon.ico” mce_href=”/favicon.ico” type=”image/x-icon”>
+    <meta charset="UTF-8">
+    <title>FatCats</title>
+    <style>
+        p
+        {
+            text-align: center;
+        }
+        h2
+        {
+            text-align:center;
+        }
+        div
+        {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<h2>FatCats</h2>
+    <hr />
+
+<p>
+    This is a club taking care of cats. This website is for recording our progresses and posting information for cats needing help.
+</p>
+<div>
+<img src="CATforLAYOUT.png" alt="CAT NEEDS HELP" width="556" height="415.5">
+</div>
+<p>
+<a href="login.html">To post a message, log in</a>
+</p>
+
+</body>
+</html>

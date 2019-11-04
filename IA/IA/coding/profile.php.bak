@@ -1,0 +1,32 @@
+<?PHP
+function isEmail($email){
+   		$mode = '/\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*/';
+   		if(preg_match($mode,$email)){
+  			return true;
+ 		}
+  		else{
+ 			return false;
+		}
+ 	}
+
+session_start();
+include('testphpdb.php');
+$sender=$_SESSION['username'];
+$newemail=$_POST['contact'];
+
+//check the format
+if (!isEmail($newemail)){
+	echo "<script>alert('Invalid email address');history.back(-1);</script>";
+}else{
+	//modify the email address in the database
+$sql = "UPDATE userinfo SET Contact='$newemail' WHERE name='$sender'";
+$result1 = mysqli_query($connection,$sql);
+}
+
+//remind the user the result
+if (!$result1) {
+	echo "<script>alert('ERROR')</script>";
+	} else {
+	echo "<script>alert('Successful edit!');parent.location.href='profile1.php';</script>";
+}
+?>

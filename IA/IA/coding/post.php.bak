@@ -67,7 +67,7 @@ function do_request($q)
     return $ret;
 }
 
-// send a request
+// send request
 function call($url, $args = null, $method = "post", $testflag = 0, $timeout = CURL_TIMEOUT, $headers = array())
 {
     $ret = false;

@@ -1,7 +1,7 @@
 <?php
 function isEmail($email){//check the format of the email address
    		$mode = '/\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*/';
-   		if(preg_match($mode,$email)){
+   		if(preg_match($mode,$email)){	
   			return true;
  		}
   		else{
