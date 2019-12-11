@@ -1,17 +1,17 @@
 import matplotlib.pyplot as mtp
 import numpy as np
-x=[]
-y=[]
-for i in range(90):
-    x.append(i)
-    z=((np.sin(np.radians(i)))**0.5*np.cos(np.radians(i)))
-    y.append(z)
-print(y[15],y[25],y[36],y[43],y[54],y[63]) 
-mtp.plot(x,y)
-mtp.xlabel("x")
-mtp.ylabel("y")
-mtp.axis([0,90,0,1])
-mtp.show()
+# x=[]
+# y=[]
+# for i in range(90):
+#     x.append(i)
+#     z=((np.sin(np.radians(i)))**0.5*np.cos(np.radians(i)))
+#     y.append(z)
+# print(y[15],y[25],y[36],y[43],y[54],y[63])
+# mtp.plot(x,y)
+# mtp.xlabel("x")
+# mtp.ylabel("y")
+# mtp.axis([0,90,0,1])
+# mtp.show()
 
 #print(np.linspace(0,5,50))
 # mtp.plot([1,1.5,3,4],[4,4,2,2],label='1')
@@ -70,19 +70,19 @@ mtp.show()
 # def f(t):
 #     return np.sin(2*t)
 #
-# t1 = np.arange(0.0, 10.0, 0.1)
-# t2 = np.arange(0.0, 10.0, 0.02)
+t1 = np.arange(0.0, 10.0, 0.1)
+t2 = np.arange(0.0, 10.0, 0.02)
 #
 # mtp.figure(1)
 # mtp.subplot(2,1,1)
 # mtp.plot(t1, f(t1), 'bo', t2, f(t2), 'k')
 #
-# mtp.subplot(2,1,2)
-# mtp.plot(t2, np.cos(2*t2), 'r--')
-# mtp.axis([0,10,-1,1])
-# mtp.annotate("local max",xy=(6.28,1),xytext=(4,0.5)
-#              ,arrowprops=dict(facecolor='black',
-#                               headwidth=5, width=0.5))
+mtp.subplot(2,1,2)
+mtp.plot(t2, np.cos(2*t2), 'r--')
+mtp.axis([0,10,-1,1])
+mtp.annotate("local max",xy=(6.28,1),xytext=(4,0.5)
+             ,arrowprops=dict(facecolor='black',
+                              headwidth=5, width=0.5))
 mtp.show()
 
 

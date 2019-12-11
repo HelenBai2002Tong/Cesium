@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16fe304d-82ae-4f63-9595-0d740bd5e485" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CaseStudy/Blockchain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CaseStudy/MyTEST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CaseStudy/TEST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CaseStudy/__init.py__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawAGraphForMathIA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EE/Cryptonight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EE/EE_Randomness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EE/EE_Resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EE/sjdak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OptionB_Realization/19May-5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Airbnb_白桐_程瑞鹏.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matplotlibteaching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matplotlibteaching.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +25,7 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$perception.coverage" NAME="perception Coverage Results" MODIFIED="1568217545153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$TEST.coverage" NAME="TEST Coverage Results" MODIFIED="1573114141240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CaseStudy" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$3.coverage" NAME="3 Coverage Results" MODIFIED="1541091372765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$sjdak.coverage" NAME="sjdak Coverage Results" MODIFIED="1575396694812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EE" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$s1c63.coverage" NAME="s1c6梁颖昕3 Coverage Results" MODIFIED="1541092951073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$ps3_hangman.coverage" NAME="ps3_hangman Coverage Results" MODIFIED="1545907251145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$test3__S1C6.coverage" NAME="test3 李紫徐 S1C6 Coverage Results" MODIFIED="1541090545170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
@@ -65,6 +70,7 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$scratch_26.coverage" NAME="scratch_26 Coverage Results" MODIFIED="1570558907287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$c7.coverage" NAME="c7 Coverage Results" MODIFIED="1541079590000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$alpha.coverage" NAME="alpha通道实践 Coverage Results" MODIFIED="1557215585465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/4" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$scratch_30.coverage" NAME="scratch_30 Coverage Results" MODIFIED="1575345940622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$k_means_NBA.coverage" NAME="k_means_NBA Coverage Results" MODIFIED="1572884184231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/WeChatFiles/WeChat Files/ruxuexsfh/FileStorage/File/2019-11" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1541087422440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$sorting.coverage" NAME="sorting Coverage Results" MODIFIED="1541321566814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -99,18 +105,21 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$elevator.coverage" NAME="elevator Coverage Results" MODIFIED="1565085220575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$NeuralNetworkSklearn.coverage" NAME="NeuralNetworkSklearn Coverage Results" MODIFIED="1571677854315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$NBA_numpy.coverage" NAME="NBA_numpy Coverage Results" MODIFIED="1572885421718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Option" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$scratch_31.coverage" NAME="scratch_31 Coverage Results" MODIFIED="1576023155458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$q1__1_.coverage" NAME="q1 (1) Coverage Results" MODIFIED="1541082808845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$sklearn_visualization.coverage" NAME="sklearn visualization Coverage Results" MODIFIED="1553643602189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iris" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$alpha_mask.coverage" NAME="alpha_mask Coverage Results" MODIFIED="1571793335973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Blending_Exercise/project/code" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$PlanB.coverage" NAME="PlanB Coverage Results" MODIFIED="1549074030464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$liuzhihan_Q1.coverage" NAME="liuzhihan Q1 Coverage Results" MODIFIED="1541080323953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$EE_Time.coverage" NAME="EE_Time Coverage Results" MODIFIED="1575866096358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EE" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$dark_channel.coverage" NAME="dark_channel Coverage Results" MODIFIED="1557216749593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/2" />
-    <SUITE FILE_PATH="coverage/Projects_Assignments$Matplotlibteaching.coverage" NAME="Matplotlibteaching Coverage Results" MODIFIED="1548995502983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$PageRank_test.coverage" NAME="PageRank_test Coverage Results" MODIFIED="1567667062682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$Matplotlibteaching.coverage" NAME="Matplotlibteaching Coverage Results" MODIFIED="1575479789532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$1__1_.coverage" NAME="会考练习1 (1) Coverage Results" MODIFIED="1541093284347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$s1c6_2.coverage" NAME="s1c6高栉雨-2 Coverage Results" MODIFIED="1541084732913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$turtleteaching.coverage" NAME="turtleteaching Coverage Results" MODIFIED="1545139250761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$IllustrationForAES.coverage" NAME="IllustrationForAES Coverage Results" MODIFIED="1568215887828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$EE_Randomness.coverage" NAME="EE_Randomness Coverage Results" MODIFIED="1575397495446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EE" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$6.coverage" NAME="课6小测 Coverage Results" MODIFIED="1541082049546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$Q2_C1_C6.coverage" NAME="循环结构测试Q2-C1&amp;C6 Coverage Results" MODIFIED="1541144302007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../会考作业/示例代码" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$_C1_C6.coverage" NAME="选择结构测试-C1&amp;C6 Coverage Results" MODIFIED="1541135520891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
@@ -139,6 +148,8 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$NNKeras1.coverage" NAME="NNKeras1 Coverage Results" MODIFIED="1571678379994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$convert_txt_to_image.coverage" NAME="convert_txt_to_image Coverage Results" MODIFIED="1571793027670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Blending_Exercise/project/code" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$S1C6_Cindy_Tao_Q3.coverage" NAME="S1C6 Cindy Tao Q3 Coverage Results" MODIFIED="1541092160503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$14May_6.coverage" NAME="14May-6 Coverage Results" MODIFIED="1576023410592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$DrawAGraphForMathIA.coverage" NAME="DrawAGraphForMathIA Coverage Results" MODIFIED="1575600137182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$scratch_14.coverage" NAME="scratch_14 Coverage Results" MODIFIED="1540884036921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$sklearn_iris.coverage" NAME="sklearn iris Coverage Results" MODIFIED="1553644822955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iris" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$HiMCM_2.coverage" NAME="HiMCM_2 Coverage Results" MODIFIED="1548820458891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
@@ -149,6 +160,7 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$turtle_if.coverage" NAME="turtle+if Coverage Results" MODIFIED="1541090078211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/ruxuexsfh/Files" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$Segregation.coverage" NAME="Segregation Coverage Results" MODIFIED="1568217645856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$scratch_17.coverage" NAME="scratch_17 Coverage Results" MODIFIED="1541512446115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$19May_5.coverage" NAME="19May-5 Coverage Results" MODIFIED="1576025439141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OptionB_Realization" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$c7_2.coverage" NAME="c7 2 Coverage Results" MODIFIED="1541084004524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$cs1030.coverage" NAME="cs1030 Coverage Results" MODIFIED="1541082260204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$T2.coverage" NAME="T2 Coverage Results" MODIFIED="1541083537442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
@@ -158,7 +170,9 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$63.coverage" NAME="课6小测3 Coverage Results" MODIFIED="1541091685232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$turtlework.coverage" NAME="turtlework Coverage Results" MODIFIED="1545139380446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$Liuzhihan.coverage" NAME="Liuzhihan Coverage Results" MODIFIED="1541075821670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$Cryptonight.coverage" NAME="Cryptonight Coverage Results" MODIFIED="1575306034334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EE" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$HiMCM.coverage" NAME="HiMCM Coverage Results" MODIFIED="1554162851022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$EE_Resource.coverage" NAME="EE_Resource Coverage Results" MODIFIED="1575396300756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EE" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$1_10_23.coverage" NAME="1.10.23 Coverage Results" MODIFIED="1541075417644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$dehaze.coverage" NAME="dehaze Coverage Results" MODIFIED="1557217550715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/1" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$s1c6.coverage" NAME="梁颖昕s1c6 Coverage Results" MODIFIED="1541087583090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
@@ -168,7 +182,7 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$loop2.coverage" NAME="loop2 Coverage Results" MODIFIED="1541084356418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$scratch_19.coverage" NAME="scratch_19 Coverage Results" MODIFIED="1542122175549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$2__1_.coverage" NAME="2 (1) Coverage Results" MODIFIED="1541086219530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
-    <SUITE FILE_PATH="coverage/Projects_Assignments$eight_queen.coverage" NAME="eight_queen Coverage Results" MODIFIED="1545821538881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eight_queen" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$eight_queen.coverage" NAME="eight_queen Coverage Results" MODIFIED="1575285778273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eight_queen" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$_AP.coverage" NAME="选择结构测试-AP Coverage Results" MODIFIED="1541135981525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../会考作业/示例代码" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$Q2.coverage" NAME="Q2 Coverage Results" MODIFIED="1549093752888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$Animal.coverage" NAME="Animal Coverage Results" MODIFIED="1543365438035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -182,24 +196,25 @@
     <session id="35194044">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="84" />
+          <entry key="project.closed" value="92" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="20" />
-          <entry key="project.open.time.6" value="28" />
+          <entry key="project.open.time.5" value="23" />
+          <entry key="project.open.time.6" value="34" />
           <entry key="project.open.time.7" value="17" />
-          <entry key="project.open.time.8" value="14" />
+          <entry key="project.open.time.8" value="16" />
           <entry key="project.open.time.9" value="7" />
-          <entry key="project.opened" value="95" />
+          <entry key="project.opened" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="png" value="1" />
-          <entry key="py" value="310" />
+          <entry key="pstat" value="1" />
+          <entry key="py" value="328" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -207,8 +222,9 @@
         <counts>
           <entry key="Image" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="294" />
-          <entry key="Scratch" value="16" />
+          <entry key="Profiler Session" value="1" />
+          <entry key="Python" value="308" />
+          <entry key="Scratch" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -217,15 +233,15 @@
           <entry key="MyTEST" value="304" />
           <entry key="Python Console" value="381" />
           <entry key="dummy" value="2" />
-          <entry key="py" value="46129" />
+          <entry key="py" value="48555" />
           <entry key="stack" value="326" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="44451" />
-          <entry key="Scratch" value="2698" />
+          <entry key="Python" value="46812" />
+          <entry key="Scratch" value="2763" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -235,99 +251,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/Blending_Exercise/project/code/alpha_mask.py">
+        <entry file="file://$PROJECT_DIR$/EE/EE_Time.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/Blending_Exercise/project/code/createMask.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SAYyougetit.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1430">
-              <caret line="65" column="69" selection-start-line="65" selection-start-column="69" selection-end-line="65" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/WeChatFiles/WeChat Files/ruxuexsfh/FileStorage/File/2019-11/k_means_NBA.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="373">
+              <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#16#0" expanded="true" />
+                <marker date="1575865730584" expanded="true" signature="770:771" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Option/k_means_NBA.py">
+        <entry file="file://$PROJECT_DIR$/EE/EE_Resource.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="329">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1575395904014" expanded="true" signature="85:86" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Option/NBA_numpy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1672">
-              <caret line="79" column="28" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Option/GraphicToyExample.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../CaseStudy/Blockchain.py">
+        <entry file="file://$PROJECT_DIR$/EE/EE_Randomness.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="290" column="29" selection-start-line="290" selection-start-column="18" selection-end-line="290" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../CaseStudy/MyTEST.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../CaseStudy/TEST.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="63" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="329">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -358,6 +311,7 @@
       <find>pr</find>
       <find>pri</find>
       <find>regi</find>
+      <find>sc</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -366,19 +320,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/programmingpracticeforfinal.py" />
-        <option value="$USER_HOME$/Documents/WeChat Files/ruxuexsfh/Files/NIHE.py" />
-        <option value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/IMMC2019.py" />
-        <option value="$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/getdata.py" />
-        <option value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/IMMC2019.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.py" />
-        <option value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/PlanB.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py" />
-        <option value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/test.py" />
-        <option value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/Q2.py" />
-        <option value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/Q1.py" />
-        <option value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/Q21.py" />
-        <option value="$PROJECT_DIR$/../../../../数学/数学建模/IMMC/2019初赛/题目/D/Q3.py" />
         <option value="$PROJECT_DIR$/ForRick.py" />
         <option value="$PROJECT_DIR$/Airbnb/ForRick.py" />
         <option value="$PROJECT_DIR$/Airbnb/Helen&amp;Rick.py" />
@@ -386,7 +327,6 @@
         <option value="$PROJECT_DIR$/blackhole/image reconstruction(2)/RPCA_checkerboard.py" />
         <option value="$PROJECT_DIR$/blackhole/image reconstruction(2)/RPCA.py" />
         <option value="$PROJECT_DIR$/blackhole/testcolormap.py" />
-        <option value="$PROJECT_DIR$/Matplotlibteaching.py" />
         <option value="$PROJECT_DIR$/HazeRemoval.py" />
         <option value="$USER_HOME$/Desktop/1/单通道像素运算.py" />
         <option value="$USER_HOME$/Desktop/3/多通道像素运算.py" />
@@ -417,6 +357,20 @@
         <option value="$PROJECT_DIR$/../CaseStudy/__init.py__.py" />
         <option value="$PROJECT_DIR$/../CaseStudy/MyTEST.py" />
         <option value="$PROJECT_DIR$/../CaseStudy/Blockchain.py" />
+        <option value="$PROJECT_DIR$/EE/Cryptonight.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.py" />
+        <option value="D:/Anaconda/Lib/hashlib.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.py" />
+        <option value="$PROJECT_DIR$/EE/EE_Resource.py" />
+        <option value="$PROJECT_DIR$/EE/sjdak.py" />
+        <option value="$PROJECT_DIR$/EE/EE_Randomness.py" />
+        <option value="$PROJECT_DIR$/Matplotlibteaching.py" />
+        <option value="$PROJECT_DIR$/DrawAGraphForMathIA.py" />
+        <option value="$PROJECT_DIR$/EE/EE_Time.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_31.py" />
+        <option value="$PROJECT_DIR$/14May-6.py" />
+        <option value="$PROJECT_DIR$/17May-5.py" />
+        <option value="$PROJECT_DIR$/OptionB_Realization/19May-5.py" />
       </list>
     </option>
   </component>
@@ -429,8 +383,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1232" />
     <option name="y" value="7" />
-    <option name="width" value="1411" />
-    <option name="height" value="1490" />
+    <option name="width" value="1430" />
+    <option name="height" value="1509" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -445,10 +399,13 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Tong/数学/数学建模/HiMCM/HiMCM_2.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Option" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Matplotlibteaching.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -468,30 +425,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MyTEST">
-    <configuration name="Blockchain" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Projects&amp;Assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Anaconda\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CaseStudy" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CaseStudy/Blockchain.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="GraphicToyExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.19May-5">
+    <configuration name="14May-6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Projects&amp;Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -499,12 +434,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Option" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Option/GraphicToyExample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14May-6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -513,29 +448,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MyTEST" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Projects&amp;Assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Anaconda\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CaseStudy" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CaseStudy/MyTEST.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="NBA_numpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="19May-5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Projects&amp;Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -543,12 +456,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Option" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OptionB_Realization" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Option/NBA_numpy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OptionB_Realization/19May-5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -557,22 +470,66 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TEST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DrawAGraphForMathIA" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Projects&amp;Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="D:\Anaconda\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CaseStudy" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DrawAGraphForMathIA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EE_Time" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Projects&amp;Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EE/EE_Time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_31" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Projects&amp;Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CaseStudy/TEST.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_31.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -580,19 +537,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.NBA_numpy" />
-      <item itemvalue="Python.GraphicToyExample" />
-      <item itemvalue="Python.Blockchain" />
-      <item itemvalue="Python.TEST" />
-      <item itemvalue="Python.MyTEST" />
+      <item itemvalue="Python.DrawAGraphForMathIA" />
+      <item itemvalue="Python.EE_Time" />
+      <item itemvalue="Python.scratch_31" />
+      <item itemvalue="Python.14May-6" />
+      <item itemvalue="Python.19May-5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MyTEST" />
-        <item itemvalue="Python.Blockchain" />
-        <item itemvalue="Python.TEST" />
-        <item itemvalue="Python.GraphicToyExample" />
-        <item itemvalue="Python.NBA_numpy" />
+        <item itemvalue="Python.19May-5" />
+        <item itemvalue="Python.14May-6" />
+        <item itemvalue="Python.scratch_31" />
+        <item itemvalue="Python.EE_Time" />
+        <item itemvalue="Python.DrawAGraphForMathIA" />
       </list>
     </recent_temporary>
   </component>
@@ -620,13 +577,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1477" height="797" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25967628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964812" weight="0.36390978" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989444" visible="true" weight="0.36390978" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39849624" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -634,38 +592,16 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50035185" side_tool="true" weight="0.38646618" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010556" side_tool="true" weight="0.36390978" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32932332" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49964812" visible="true" weight="0.32932332" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49964812" weight="0.32882884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" auto_hide="true" x="411" y="195" width="641" height="392" id="SciView" order="3" weight="0.45109078" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25967628" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36090225" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39849624" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32932332" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32932332" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32932332" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.45109078" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -694,86 +630,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DecisionTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
-          <caret line="69" column="40" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blackhole/image reconstruction(2)/RPCA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HiMCM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../数学/数学建模/HiMCM/HiMCM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6004">
-          <caret line="320" column="30" selection-start-line="320" selection-start-column="30" selection-end-line="320" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Five Question of Recursion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1463">
-          <caret line="77" column="14" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blackhole/image reconstruction(2)/RPCA_checkerboard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="64" column="52" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blackhole/testcolormap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HazeRemoval.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/单通道像素运算.py" />
-    <entry file="file://$USER_HOME$/Desktop/1/单通道像素运算.py" />
-    <entry file="file://$USER_HOME$/Desktop/3/通道分离.py" />
-    <entry file="file://$USER_HOME$/Desktop/3/多通道像素运算.py" />
-    <entry file="file://$USER_HOME$/Desktop/4/alpha通道实践.py" />
-    <entry file="file://$USER_HOME$/Desktop/2/dark_channel.py" />
-    <entry file="file://$USER_HOME$/Desktop/1/dehaze.py" />
-    <entry file="file://D:/Anaconda/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pagerank_animation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IllustrationForTimeNeeded.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/elevator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="946">
@@ -813,13 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="114" column="55" selection-start-line="114" selection-start-column="55" selection-end-line="114" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Matplotlibteaching.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -864,13 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dijkstra_v1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_27.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -894,39 +736,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NNKeras.py" />
     <entry file="file://$PROJECT_DIR$/NNKeras1.py" />
-    <entry file="file://$USER_HOME$/Desktop/Blending_Exercise/project/code/convert_txt_to_image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Blending_Exercise/project/code/drawMask.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Blending_Exercise/project/code/convert_txt_to_image.py" />
+    <entry file="file://$USER_HOME$/Desktop/Blending_Exercise/project/code/drawMask.py" />
     <entry file="file://$PROJECT_DIR$/../CaseStudy/新建文本文档.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../CaseStudy/__init.py__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Blending_Exercise/project/code/alpha_mask.py">
+    <entry file="file://$USER_HOME$/Desktop/Blending_Exercise/project/code/alpha_mask.py" />
+    <entry file="file://$USER_HOME$/Desktop/Blending_Exercise/project/code/createMask.py" />
+    <entry file="file://$PROJECT_DIR$/../Option/k_means_NBA.py" />
+    <entry file="file://$PROJECT_DIR$/../Option/NBA_numpy.py" />
+    <entry file="file://$PROJECT_DIR$/../Option/GraphicToyExample.py" />
+    <entry file="file://D:/Anaconda/Scripts/py_cryptonight-0.2.4/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
+        <state relative-caret-position="-1584" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Blending_Exercise/project/code/createMask.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_28.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/SAYyougetit.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -935,40 +764,148 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_29.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EE/Cryptonight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://D:/WeChatFiles/WeChat Files/ruxuexsfh/FileStorage/File/2019-11/k_means_NBA.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/hashlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="233" column="17" lean-forward="true" selection-start-line="233" selection-start-column="9" selection-end-line="233" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/scrypt/scrypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="228" column="21" selection-start-line="228" selection-start-column="21" selection-end-line="228" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_30.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrawAGraphForMathIA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CaseStudy/Blockchain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6226">
+          <caret line="290" column="29" selection-start-line="290" selection-start-column="18" selection-end-line="290" selection-end-column="29" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Option/k_means_NBA.py">
+    <entry file="file://$PROJECT_DIR$/eight_queen/eight_queen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Option/NBA_numpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1672">
-          <caret line="79" column="28" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
+        <state relative-caret-position="88">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Option/GraphicToyExample.py">
+    <entry file="file://$PROJECT_DIR$/Matplotlibteaching.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="484">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_31.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14May-6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17May-5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OptionB_Realization/14May-6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OptionB_Realization/19May-5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dijkstra_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EE/sjdak.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EE/EE_Time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+            <marker date="1575865730584" expanded="true" signature="770:771" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EE/EE_Resource.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1575395904014" expanded="true" signature="85:86" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -977,7 +914,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../CaseStudy/TEST.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
+        <state relative-caret-position="329">
           <caret line="63" selection-start-line="63" selection-end-line="63" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
@@ -985,10 +922,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CaseStudy/Blockchain.py">
+    <entry file="file://$PROJECT_DIR$/EE/EE_Randomness.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="290" column="29" selection-start-line="290" selection-start-column="18" selection-end-line="290" selection-end-column="29" />
+        <state relative-caret-position="329">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
