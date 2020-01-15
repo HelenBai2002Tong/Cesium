@@ -2,6 +2,7 @@ import time as t
 import hashlib
 import xlrd
 from passlib.hash import scrypt
+import scrypt as sc
 import base64
 import uuid
 
@@ -59,7 +60,7 @@ def Script_txt(data):
         text = data.readline()
         if not text:
             break
-        m = scrypt.hash(text.encode("utf-8"))
+        m = sc.hash(text.encode("utf-8"),"")
         i+=1
     data.close()
 
@@ -70,7 +71,7 @@ def Scrypt_excel(data):
         text=''
         for j in range(0,ncolumns):
             text+=str(data.cell(i,j).value)
-            m = scrypt.hash(text.encode("utf-8"))
+            m = sc.hash(text.encode("utf-8"),"")
 
 '''
 cal_time(sha256_txt,words)
@@ -88,7 +89,7 @@ cal_time(keccak_excel,zipcodes)'''
 
 words=open("allenglishword.txt")
 cal_time(Script_txt,words)
-words.close()
+#words.close()
 cal_time(Scrypt_excel,zipcodes)
 
 
