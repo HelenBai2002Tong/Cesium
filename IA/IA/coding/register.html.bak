@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+    <style>
+        div
+        {
+            position: absolute;
+            top: 20%;
+            left:45%;
+        }
+		.bottom
+        {
+            position:absolute;
+            right:0px;
+            bottom:0px;
+            background:#333333;
+			color:white
+            display:block;
+            width:100%;
+            text-align:center;
+            z-index: 100;
+        }
+        .bottom span
+        {
+            position:relative;
+            display:block;
+            left:0;
+        }
+    </style>
+</head>
+<body>
+<form action="register.php" method="post">
+  
+        
+    <div>
+        <h2>Register</h2>
+        User Name:<br>
+       <label for="nickname"></label><input id="nickname" name="user" type="text" ><br>
+	    Email Address(e.g. Example@cat.com)<br>
+		<label for="contact"></label><input id="contact" name="contact" type="text" ><br>
+        Password:<br>
+        <label for="password"></label><input id="password" name="password" type="password"><br>
+        Confirm Password:<br>
+        <label for="confirm"></label><input id="confirm" name="repassword" type="password" ><br>
+		
+		<p>Verification code :<input type="text" name="authcode" value=""/></p>
+		
+		 <p><img src="verifycode.php" onClick="this.src='verifycode.php?nocache='+Math.random()"  style="cursor:hand" alt="click to change"/>
+		 (Click to change the picture )</p>
+    
+   
+        <button type="submit" name="submit" >Register</button>
+		
+        <br>
+        <a href="login.html">
+            <button type="button">Back to log in page</button>
+        </a>
+
+    </div>
+<div class="bottom">
+
+            <span class="style4">  </span>
+            <span an class="style4">  </span>
+            <span class="style4"><a href='http://www.miibeian.gov.cn' target='_blank' style="color:white">京ICP备19042760号</a></span><br />
+			<br></br>	
+</div>
+
+</form>
+</body>
+</html>

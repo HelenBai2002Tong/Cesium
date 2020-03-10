@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profile</title>
+    <style>
+	ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+padding-top:6px;
+padding-bottom:6px;
+}
+li
+{
+display:inline;
+}
+a:link,a:visited
+{
+font-weight:bold;
+color:#FFFFFF;
+background-color:#bebebe;
+text-align:center;
+padding:6px;
+text-decoration:none;
+text-transform:uppercase;
+}
+a:hover,a:active
+{
+background-color:#cc0000;
+}
+#title
+{
+width:200px;
+height:20px;
+}
+#description
+{
+width:400px;
+height:100px;
+}
+
+.first
+{
+position: absolute;
+top: 30%;
+left: 45%;
+}
+		.bottom
+        {
+            position:absolute;
+            right:0px;
+            bottom:0px;
+            background:#333333;
+			color:white
+            display:block;
+            width:100%;
+            text-align:center;
+            z-index: 100;
+        }
+        .bottom span
+        {
+            position:relative;
+            display:block;
+            left:0;
+        }
+</style>
+</head>
+<body>
+<br>
+<br>
+<center>
+<h2>FatCats</h2>
+
+<ul>
+<li><a href="mainviewing.php">Moments</a></li>
+<li><a href="post.html">Post a new message</a></li>
+<li><a href="profile.html">Profile</a></li>
+<li><a href="logout.php">LOG OUT</a></li>
+</ul>
+</center>
+<form action="profile.php" method="post">
+    <div class='first'>
+        <h2>UPDATE Profile</h2>
+	   Contact infomation <br>
+		<label for="contact"></label><input id="contact" name="contact" type="text" ><?php echo "$conErr";?><br>
+        <button type="submit" name="submit" >Save Changes</button>
+    </div>	 
+</form>
+<div class="bottom">
+<br></br>
+            <span class="style4">  </span>
+            <span an class="style4">  </span>
+            <span class="style4"><a href='http://www.miibeian.gov.cn' style="color:#cc0000">京ICP备19042760号</a></span><br />
+			<br></br>	
+</div>
+</body>
+</html>

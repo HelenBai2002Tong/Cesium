@@ -41,8 +41,25 @@ height:20px;
 {
 width:400px;
 height:100px;
-}
-
+}			
+		.bottom
+        {
+            position:absolute;
+            right:0px;
+            bottom:0px;
+            background:#bebebe;
+			color:white
+            display:block;
+            width:100%;
+            text-align:center;
+            z-index: 100;
+        }
+        .bottom span
+        {
+            position:relative;
+            display:block;
+            left:0;
+        }
 			
 </style>
 </head>
@@ -72,6 +89,13 @@ echo'</select>';
 <button> See About </button>
 <hr></hr>
 </form>
+<div class="bottom">
+<br></br>
+            <span class="style4">  </span>
+            <span an class="style4">  </span>
+            <span class="style4"><a href='http://www.miibeian.gov.cn' style="color:white">京ICP备19042760号</a></span><br />
+			<br></br>	
+</div>
 </body>
 </html>
 

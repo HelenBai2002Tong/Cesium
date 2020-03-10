@@ -13,7 +13,7 @@ def pre(k):
 
 def inp(k):
     if k is None:
-        return
+        return None
     inp(k.left)
     print(k.cargo,end=" ")
     inp(k.right)

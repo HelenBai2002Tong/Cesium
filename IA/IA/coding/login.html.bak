@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tologin</title>
+  <style>
+        div
+        {
+            position: absolute;
+            top: 30%;
+            left: 45%;
+
+        }
+		p
+		{
+			position:absolute;
+			top : 53%;
+			left: 43% ;
+		}
+		.bottom
+        {
+            position:absolute;
+            right:0px;
+            bottom:0px;
+            background:#333333;
+			color:white
+            display:block;
+            width:100%;
+            text-align:center;
+            z-index: 100;
+        }
+        .bottom span
+        {
+            position:relative;
+            display:block;
+            left:0;
+        }
+
+    </style> 
+
+</head>
+
+<body>
+<form action="login.php" method="post">
+<div>
+<h2>Log in</h2>
+
+Username:<br>
+<!-- input for username  -->
+<label for="username" class="label"></label><input id="username" name="username" type="text" class='input'/><br>
+Password:<br>
+<!-- input for password  -->
+<label for="password" class="label"></label><input id="password" name="password" type='password' class='input'/>
+<br>
+<br>
+</div>
+<p>
+<!-- button to click for submitting -->
+<button type="submit" name='submit'>log in</button>
+
+<a href="register.html"><button type="button" >Register Now!</button></a>
+<!-- visitor mode jumping button  -->
+<a href="mainviewing.php">
+<button type="button" >Visitor Mode</button>
+
+</a>
+</p>
+
+</center>
+</form>
+<div class="bottom">
+
+            <span class="style4">  </span>
+            <span an class="style4">  </span>
+            <span class="style4"><a href='http://www.miibeian.gov.cn' target='_blank' style="color:white">京ICP备19042760号</a></span><br />
+			<br></br>	
+</div>
+</body>
+
+</html>
