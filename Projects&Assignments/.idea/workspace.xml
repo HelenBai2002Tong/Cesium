@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16fe304d-82ae-4f63-9595-0d740bd5e485" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/18Nov12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SolveEquation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IA/IA/coding/layout1.html.bak" beforeDir="false" afterPath="$PROJECT_DIR$/../IA/IA/coding/layout1.html.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IA/IA/coding/mainviewing.php.bak" beforeDir="false" afterPath="$PROJECT_DIR$/../IA/IA/coding/mainviewing.php.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19May15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19Nov13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -174,6 +171,7 @@
     <SUITE FILE_PATH="coverage/Projects_Assignments$19May_5.coverage" NAME="19May-5 Coverage Results" MODIFIED="1576025439141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OptionB_Realization" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$c7_2.coverage" NAME="c7 2 Coverage Results" MODIFIED="1541084004524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$cs1030.coverage" NAME="cs1030 Coverage Results" MODIFIED="1541082260204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/Projects_Assignments$19May15.coverage" NAME="19May15 Coverage Results" MODIFIED="1583843884562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$T2.coverage" NAME="T2 Coverage Results" MODIFIED="1541083537442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$myzr3.coverage" NAME="myzr测试3 Coverage Results" MODIFIED="1541091456654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Projects_Assignments$MyTEST.coverage" NAME="MyTEST Coverage Results" MODIFIED="1573114741227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CaseStudy" />
@@ -219,17 +217,17 @@
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="25" />
           <entry key="project.open.time.6" value="42" />
-          <entry key="project.open.time.7" value="18" />
+          <entry key="project.open.time.7" value="19" />
           <entry key="project.open.time.8" value="17" />
           <entry key="project.open.time.9" value="7" />
-          <entry key="project.opened" value="121" />
+          <entry key="project.opened" value="122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="png" value="1" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="356" />
+          <entry key="py" value="360" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -238,8 +236,8 @@
           <entry key="Image" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="333" />
-          <entry key="Scratch" value="23" />
+          <entry key="Python" value="335" />
+          <entry key="Scratch" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -248,15 +246,15 @@
           <entry key="MyTEST" value="304" />
           <entry key="Python Console" value="381" />
           <entry key="dummy" value="2" />
-          <entry key="py" value="52786" />
+          <entry key="py" value="52903" />
           <entry key="stack" value="326" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="50829" />
-          <entry key="Scratch" value="2977" />
+          <entry key="Python" value="50840" />
+          <entry key="Scratch" value="3083" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -266,49 +264,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test4.py">
+        <entry file="file://$PROJECT_DIR$/18Nov12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="22">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SolveEquation.py">
+        <entry file="file://$PROJECT_DIR$/19May15.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_33.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            <state relative-caret-position="264">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_34.py">
+        <entry file="file://$PROJECT_DIR$/19Nov13.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/18Nov12.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -395,10 +372,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/testnetworkx.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/Pagerank_animation.py" />
-        <option value="$PROJECT_DIR$/PageRank_test.py" />
         <option value="$PROJECT_DIR$/Dijkstra.py" />
         <option value="$PROJECT_DIR$/Dijkstra_v1.py" />
         <option value="$PROJECT_DIR$/SAYyougetit.py" />
@@ -446,6 +419,10 @@
         <option value="$PROJECT_DIR$/18Nov12.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_33.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_34.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/19May15.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/19MayQ15.py" />
+        <option value="$PROJECT_DIR$/19May15.py" />
+        <option value="$PROJECT_DIR$/19Nov13.py" />
       </list>
     </option>
   </component>
@@ -458,8 +435,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-28" />
     <option name="y" value="7" />
-    <option name="width" value="1456" />
-    <option name="height" value="1484" />
+    <option name="width" value="1458" />
+    <option name="height" value="1486" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -500,7 +477,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.scratch_34">
+  <component name="RunManager" selected="Python.19May15">
     <configuration name="18Nov12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Projects&amp;Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -523,7 +500,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="19May15" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Projects&amp;Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -531,12 +508,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/19May15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -612,19 +589,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BinaryTree" />
       <item itemvalue="Python.SolveEquation" />
       <item itemvalue="Python.18Nov12" />
       <item itemvalue="Python.scratch_33" />
       <item itemvalue="Python.scratch_34" />
+      <item itemvalue="Python.19May15" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.19May15" />
         <item itemvalue="Python.scratch_34" />
         <item itemvalue="Python.scratch_33" />
         <item itemvalue="Python.18Nov12" />
         <item itemvalue="Python.SolveEquation" />
-        <item itemvalue="Python.BinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -652,13 +629,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1477" height="797" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.26319492" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989444" weight="0.36390978" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989444" visible="true" weight="0.36390978" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39849624" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -709,14 +687,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Option/k_means_NBA.py" />
-    <entry file="file://$PROJECT_DIR$/../Option/NBA_numpy.py" />
-    <entry file="file://$PROJECT_DIR$/../Option/GraphicToyExample.py" />
-    <entry file="file://D:/Anaconda/Scripts/py_cryptonight-0.2.4/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1584" />
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_28.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -951,10 +921,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SolveEquation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_33.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -997,34 +981,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/18Nov12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_33.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_34.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/19May15.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/19MayQ15.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18Nov12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19May15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19Nov13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
